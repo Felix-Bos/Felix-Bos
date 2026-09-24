@@ -1,6 +1,19 @@
-# 💫 About Me:
-🔭👋 Hello! I’m currently in my second year of a Master’s in Actuarial Science at Sorbonne Université (ISUP), while completing a second Master's degree in Artificial Intelligence — the intensive MS2A program (ex-M2A) at Sorbonne Université.<br>🔗 https://ms2a.lpsm.paris/<br><br>Alongside my studies, I work as a quantitative finance and actuarial trainee, where I focus on developing models, tools, and methodologies at the intersection of stochastic modelling, financial risk, and applied machine learning.<br><br>I’m deeply passionate about mathematics, data science, and AI, with a strong interest in Generative Models and their applications. I enjoy working on technically challenging projects, learning new methods, and building tools that bridge theory and real-world implementation.<br><br>If you share interests in quantitative finance, actuarial science, or advanced AI — let’s connect and build something meaningful. 
+# 💫 About Me
 
+👋 Hi! I'm Félix. I hold a Master's degree in Actuarial Science from Sorbonne Université (ISUP), and I'm now completing a second Master's in Artificial Intelligence, the intensive **MS2A** program (ex-M2A) at Sorbonne Université.<br>
+🔗 https://ms2a.lpsm.paris/<br><br>
+
+💼 In parallel, I work as an **Actuarial Consultant at PwC** (Risk Modelling Services), building models and tools at the crossroads of stochastic modelling, financial risk and machine learning.<br><br>
+
+🧭 My background spans applied mathematics, computer science, actuarial science and quantitative finance, and I'm now focusing on **Artificial Intelligence** and **software engineering**. I'm curious by nature and love exploring new fields: over time I've worked on quant finance, actuarial science, applied maths, software engineering, AI and, more recently, **AI for biology**. A bit of everything, and I intend to keep it that way.<br><br>
+
+🔭 I'm particularly drawn to cutting-edge AI, especially **Generative AI**, **Computer Vision** and **Reinforcement Learning**.<br><br>
+
+🎯 My goal is to become an **AI Research Engineer**, combining mathematical modelling, machine learning and software engineering to contribute to advances in AI and build impactful tools and applications.<br><br>
+
+🤝 I'm always open to new projects, collaborations and hackathons. I enjoy learning from others and building things together, so feel free to reach out if you're working on something interesting or looking for a teammate!<br><br>
+
+🏊 Outside of work and code, you'll usually find me in the pool.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/félixbos) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:felix.bos001@gmail.com) 
