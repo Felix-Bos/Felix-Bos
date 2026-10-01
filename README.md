@@ -5,7 +5,7 @@
 💼 In parallel, I work as an **Actuarial Consultant at PwC** (Risk Modelling Services), building models and tools at the crossroads of stochastic modelling, financial risk and machine learning.<br><br>
 🧭 My background spans applied mathematics, computer science, actuarial science and quantitative finance, and I'm now focusing on **Artificial Intelligence** and **software engineering**. I'm curious by nature and love exploring new fields: over time I've worked on quant finance, actuarial science, applied maths, software engineering, AI. A bit of everything, and I intend to keep it that way.<br><br>
 🔭 I'm particularly drawn to cutting-edge AI, especially **Generative AI**, **Computer Vision** and **Reinforcement Learning**.<br><br>
-🎯I enjoy combining mathematical modeling, data science, machine learning, and software engineering to develop AI-driven applications, automate complex processes, and build practical solutions to real-world problems.
+🎯I enjoy combining mathematical modeling, data science, machine learning, and software engineering to develop AI-driven applications, automate complex processes, and build practical solutions to real-world problems.<br><br>
 🤝 I'm always open to new projects, collaborations and hackathons. I enjoy learning from others and building things together, so feel free to reach out if you're working on something interesting or looking for a teammate!<br><br>
 🏊 Outside of work and code, you'll usually find me in the pool.
 
